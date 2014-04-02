@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 02 13:42:06 EEST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0145-2208-143f-000000547d88 
+on database directory D:\temp\db\simplewebcar with class loader ContextLoader@simplewebcar 
+Loaded from file:/C:/Documents%20and%20Settings/iAmater/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=D:\MavenProjects\simplewebcar
+os.name=Windows XP
+os.arch=x86
+os.version=5.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
